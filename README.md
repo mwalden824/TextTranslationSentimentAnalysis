@@ -15,7 +15,7 @@ pip install torch numpy matplotlib ipywidgets pickle jupyterlab pandas transform
 
 Clone repository:
 ```bash
-git clone git@github.com:mwalden824/MNISTGAN.git
+git clone git@github.com:mwalden824/TextTranslationSentimentAnalysis.git
 ```
 
 Run jupyter notebook:
